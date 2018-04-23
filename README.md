@@ -2,6 +2,12 @@
 
 Made with [IcoMoon.io](https://icomoon.io).
 
+## CDN
+
+```html
+<link rel="stylesheet" href="//cdn.rawgit.com/luizbills/feather-icon-font/4.7.0/dist/style.css">
+```
+
 ## Demo
 
 Open *demo.html* to see a list of all the glyphs in your font along with their codes/ligatures.
