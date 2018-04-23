@@ -2,11 +2,17 @@
 
 Made with [IcoMoon.io](https://icomoon.io).
 
-## CDN
+## Usage
+
+Download the files in `dist` folder or use the cdn link below:
 
 ```html
-<link rel="stylesheet" href="//cdn.rawgit.com/luizbills/feather-icon-font/4.7.0/dist/style.css">
+<link rel="stylesheet" href="//cdn.rawgit.com/luizbills/feather-icon-font/v4.7.0/dist/feather.css">
 ```
+
+Now, add the classes `fe fe-{iconName}` into a span.
+
+Example: `<span class="fe fe-heart"></span>`
 
 ## Demo
 
