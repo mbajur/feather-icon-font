@@ -4,7 +4,7 @@ Made with [IcoMoon.io](https://icomoon.io).
 
 ## Usage
 
-Download the files in `dist` folder or use the cdn link below:
+Download the files in `dist` folder and include `feather.css` or just use the cdn link below:
 
 ```html
 <link rel="stylesheet" href="https://cdn.rawgit.com/luizbills/feather-icon-font/v4.7.0/dist/feather.css">
