@@ -1,6 +1,6 @@
-# Feather Icon Font v4.7.0
+# Feather Icon Font
 
-Made with [IcoMoon.io](https://icomoon.io).
+Made with [IcoMoon.io](https://icomoon.io). Based on Feather v4.7.x
 
 ## Usage
 
