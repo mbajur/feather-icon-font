@@ -1,0 +1,19 @@
+{
+  "name": "feather-icon-font",
+  "version": "1.0.0",
+  "description": "Made with [IcoMoon.io](https://icomoon.io). Based on Feather v4.7.x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbajur/feather-icon-font.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbajur/feather-icon-font/issues"
+  },
+  "homepage": "https://github.com/mbajur/feather-icon-font#readme"
+}
